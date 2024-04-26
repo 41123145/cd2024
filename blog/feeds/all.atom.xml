@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123145協同產品實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T17:00:00+08:00</updated><entry><title>W6</title><link href="./6.html" rel="alternate"></link><published>2024-03-29T17:00:00+08:00</published><updated>2024-03-29T09:06:05+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-29:./6.html</id><summary type="html">&lt;p&gt;W6內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123145協同產品實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T05:53:04+08:00</updated><entry><title>W6</title><link href="./41123145-W8.html" rel="alternate"></link><published>2024-04-12T17:00:00+08:00</published><updated>2024-04-26T05:53:04+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-04-12:./41123145-W8.html</id><summary type="html">&lt;p&gt;W8內容&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W8內容&lt;/p&gt;
+
+&lt;h1&gt;更改Slug名稱&lt;/h1&gt;
+&lt;p&gt;將網誌Slug名稱改成自己學號&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W6</title><link href="./41123145-W6.html" rel="alternate"></link><published>2024-03-29T17:00:00+08:00</published><updated>2024-04-26T05:44:19+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-29:./41123145-W6.html</id><summary type="html">&lt;p&gt;W6內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W6內容&lt;/p&gt;
 
 &lt;h1&gt;update個人子模組到小組倉儲&lt;/h1&gt;
-&lt;p&gt;update 41123145子模組&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W5</title><link href="./5.html" rel="alternate"></link><published>2024-03-22T17:00:00+08:00</published><updated>2024-03-29T09:06:14+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-22:./5.html</id><summary type="html">&lt;p&gt;W5內容&lt;/p&gt;
+&lt;p&gt;update 41123145子模組&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W5</title><link href="./41123145-W5.html" rel="alternate"></link><published>2024-03-22T17:00:00+08:00</published><updated>2024-04-26T05:44:19+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-22:./41123145-W5.html</id><summary type="html">&lt;p&gt;W5內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W5內容&lt;/p&gt;
 
 &lt;h1&gt;將上字幕影片上傳到小組倉儲&lt;/h1&gt;
 &lt;p&gt;各組自行搜尋前面已經發布的教學影片上字幕
 &lt;a href="https://drive.google.com/file/d/110Z_ZOz3gKbFb_Rvw6_pUSkVQTGwMn87/view?usp=sharing"&gt;wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;說明如何將組員的個人倉儲納入分組倉儲成為子模組&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1QPYG2gUfQ9MOSGNInlEkQyyhuCktkxo_/view?usp=sharing"&gt;影片逐字稿&lt;/a&gt;&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W4</title><link href="./4.html" rel="alternate"></link><published>2024-03-15T17:00:00+08:00</published><updated>2024-03-29T09:05:59+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-15:./4.html</id><summary type="html">&lt;p&gt;W4內容&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1QPYG2gUfQ9MOSGNInlEkQyyhuCktkxo_/view?usp=sharing"&gt;影片逐字稿&lt;/a&gt;&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W4</title><link href="./41123145-W4.html" rel="alternate"></link><published>2024-03-15T17:00:00+08:00</published><updated>2024-04-26T05:44:19+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-15:./41123145-W4.html</id><summary type="html">&lt;p&gt;W4內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W4內容&lt;/p&gt;
 
 
 &lt;h1&gt;各組自行搜尋前面已經發布的教學影片上字幕&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/file/d/110Z_ZOz3gKbFb_Rvw6_pUSkVQTGwMn87/view?usp=sharing"&gt;wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;說明如何將組員的個人倉儲納入分組倉儲成為子模組&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1QPYG2gUfQ9MOSGNInlEkQyyhuCktkxo_/view?usp=sharing"&gt;影片逐字稿&lt;/a&gt;&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W3</title><link href="./3.html" rel="alternate"></link><published>2024-03-08T17:00:00+08:00</published><updated>2024-03-29T09:05:51+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-08:./3.html</id><summary type="html">&lt;p&gt;W3內容&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1QPYG2gUfQ9MOSGNInlEkQyyhuCktkxo_/view?usp=sharing"&gt;影片逐字稿&lt;/a&gt;&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W3</title><link href="./41123145-W3.html" rel="alternate"></link><published>2024-03-08T17:00:00+08:00</published><updated>2024-04-26T05:44:19+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-08:./41123145-W3.html</id><summary type="html">&lt;p&gt;W3內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W3內容&lt;/p&gt;
 
 
@@ -27,14 +31,14 @@
 &lt;p&gt;41123145負責67-77頁
 &lt;a href="https://drive.google.com/file/d/1g4xlxGdSHmJ9eldZt0xBNPWFdBO4lEBL/view?usp=drive_link"&gt;67-77原文&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/file/d/1JfFy66IC6YhOOfL8LNbJRXZ-XxwBFY1_/view?usp=drive_link"&gt;67-77中文翻譯&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://drive.google.com/file/d/19cF5h0O56lDMaxobTLBonw4GVfyynRrs/view?usp=drive_link"&gt;67-77中英合併&lt;/a&gt;&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W2</title><link href="./2.html" rel="alternate"></link><published>2024-03-01T17:00:00+08:00</published><updated>2024-03-29T09:05:45+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-01:./2.html</id><summary type="html">&lt;p&gt;W2內容&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/19cF5h0O56lDMaxobTLBonw4GVfyynRrs/view?usp=drive_link"&gt;67-77中英合併&lt;/a&gt;&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W2</title><link href="./41123145-W2.html" rel="alternate"></link><published>2024-03-01T17:00:00+08:00</published><updated>2024-04-26T05:44:19+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-01:./41123145-W2.html</id><summary type="html">&lt;p&gt;W2內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W2內容&lt;/p&gt;
 
 
 &lt;h1&gt;進行分組&lt;/h1&gt;
 &lt;p&gt;老師在teams給的網址加入小組&lt;a href="https://classroom.github.com/a/4oAmwPFW"&gt;加入小組連結&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;加入第二組&lt;/h1&gt;
-&lt;p&gt;第二組&lt;a href="https://github.com/mdecd2024/2a-midag2"&gt;2a-midag2&lt;/a&gt;&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W1</title><link href="./1.html" rel="alternate"></link><published>2024-02-23T17:00:00+08:00</published><updated>2024-03-29T09:05:37+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-02-23:./1.html</id><summary type="html">&lt;p&gt;W1內容&lt;/p&gt;
+&lt;p&gt;第二組&lt;a href="https://github.com/mdecd2024/2a-midag2"&gt;2a-midag2&lt;/a&gt;&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W1</title><link href="./41123145-W1.html" rel="alternate"></link><published>2024-02-23T17:00:00+08:00</published><updated>2024-04-26T05:44:19+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-02-23:./41123145-W1.html</id><summary type="html">&lt;p&gt;W1內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W1內容&lt;/p&gt;
 
 
@@ -49,7 +53,7 @@
 &lt;h1&gt;建立個人簡報&lt;/h1&gt;
 &lt;p&gt;簡報連結&lt;a href="https://41123145.github.io/cd2024/reveal/"&gt;41123145簡報&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
-&lt;p&gt;新增倉儲，簡報，網頁，網誌，建立Github與Replit和網誌推送，下載可攜程式環境以及其他檔案。&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T17:00:00+08:00</published><updated>2024-03-29T09:05:30+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;新增倉儲，簡報，網頁，網誌，建立Github與Replit和網誌推送，下載可攜程式環境以及其他檔案。&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程</title><link href="./41123145.html" rel="alternate"></link><published>2024-02-18T17:00:00+08:00</published><updated>2024-04-26T05:44:19+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./41123145.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
