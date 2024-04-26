@@ -1,31 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>41123145協同產品實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T06:29:20+08:00</updated><entry><title>W9</title><link href="./41123145-W9.html" rel="alternate"></link><published>2024-04-19T17:00:00+08:00</published><updated>2024-04-26T06:29:20+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-04-19:./41123145-W9.html</id><summary type="html">&lt;p&gt;W9內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>41123145協同產品實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-04-26T17:00:00+08:00</updated><entry><title>W10</title><link href="./41123145-W10.html" rel="alternate"></link><published>2024-04-26T17:00:00+08:00</published><updated>2024-04-26T09:02:20+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-04-26:./41123145-W10.html</id><summary type="html">&lt;p&gt;W10內容&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;W10內容&lt;/p&gt;
+
+&lt;h1&gt;任務二 閱讀論文後請將摘要內容放入個人與分組網誌中&lt;/h1&gt;
+&lt;h3&gt;論文一：Construction and theoretical study of a ball balancing platform&lt;/h3&gt;
+&lt;p&gt;摘要:這篇論文探討了構建和理論研究球平衡平台的過程。通過應用自動控制理論，研究了穩定動態系統的限制。該研究使用比例-積分-微分控制器來平衡平台上的球，並比較了計算機模擬結果與基於牛頓力學的實際物理結果。研究結果表明，構建的物理模型在某些系統要求方面表現出色，但在靜態誤差方面存在問題。此外，研究還討論了模擬和實際結果之間的差異，並提出了減少建構錯誤的必要措施。
+結論:通過構建球平衡平台並應用控制理論，我們研究了穩定動態系統的挑戰。比較模擬和實際結果，揭示了控制理論在實際應用中的限制。未來研究可專注於改進控制器設計，以應對系統不穩定性，減少模擬與實際結果的差異。这项研究為自動控制理論的實際應用提供了重要啟示。&lt;/p&gt;
+&lt;h3&gt;論文二：A real time control system for balancing a ball on a platform with FPGA parallel implementation&lt;/h3&gt;
+&lt;p&gt;摘要:這篇論文提出了一個基於PID調節器的新解決方案，用於增加實時平台上球位置調節的準確性。首先，發展了平衡球在平台上的傳遞函數，並合成了用於平衡球在平台上的PID調節器。接著，設計了在FPGA上進行平行計算的PID調節器實現。通過自然模擬證實了增加調節平台上球位置準確性的效果。關鍵詞包括PID控制器、FPGA、VHDL和實時系統。
+結論:這篇論文展示了在FPGA上實現PID調節器的新方法，可提高實時調節平台上球位置的準確性。通過平行計算，我們成功設計了控制器，可同時控制多個參數，並通過自然模擬驗證了其有效性。這種方法有望應用於實時控制高速對象。&lt;/p&gt;
+&lt;h3&gt;論文三：Simulation and Experimental Study of Ball Position Control at Biaxial Platform using State Space Approach&lt;/h3&gt;
+&lt;p&gt;摘要:這篇論文探討了在雙軸平台上平衡球的控制結構，並介紹了使用直流電機和數位信號控制器的基準系統。文中討論了不同的位置估計方法，以及永磁直流電機的數學模型和PD控制器的實驗結果。整體而言，這篇論文強調了控制結構在實際應用中的重要性。
+結論:這篇論文研究了在雙軸平台上控制球的位置，並提出了三種不同的控制結構。通過實驗和模擬比較，證明了這些控制結構的有&lt;/p&gt;
+&lt;h3&gt;論文四：Design and Implementation a Ball Balancing System for Control Theory Course&lt;/h3&gt;
+&lt;p&gt;摘要:這個專案旨在開發一個球平衡系統，利用微控制器和控制算法來保持球在樑上平衡。通過實時感應反饋，系統調整樑的角度以最小化誤差，同時教導學生有關PID控制。整個系統包括伺服馬達、距離感應器、微控制器板和機械平台，可用於教授本科生控制理論和微控制器編程。該系統的簡化設計將理論知識與實踐技能相連接，並可應用於更複雜的系統。
+結論:球平衡系統是一個廉價的教學工具，旨在教授控制理論應用。學生可以通過實施基於傳感器和微控制器的控制平台來應用他們所學，這與閉環反饋理論相關。整體而言，球樑系統對於開發和展示相關反饋控制算法非常有效。&lt;/p&gt;
+&lt;h3&gt;論文五：Ball on the plate balancing control system&lt;/h3&gt;
+&lt;p&gt;摘要:
+結論:&lt;/p&gt;
+&lt;h3&gt;論文六：2D Ball Balancer Control using QUARC&lt;/h3&gt;
+&lt;p&gt;摘要:
+結論:&lt;/p&gt;</content><category term="w10"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W9</title><link href="./41123145-W9.html" rel="alternate"></link><published>2024-04-19T17:00:00+08:00</published><updated>2024-04-26T09:02:14+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-04-19:./41123145-W9.html</id><summary type="html">&lt;p&gt;W9內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W9內容&lt;/p&gt;
 
 &lt;h1&gt;期中自評&lt;/h1&gt;
-&lt;p&gt;自評分數65分&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W8</title><link href="./41123145-W8.html" rel="alternate"></link><published>2024-04-12T17:00:00+08:00</published><updated>2024-04-26T06:27:31+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-04-12:./41123145-W8.html</id><summary type="html">&lt;p&gt;W8內容&lt;/p&gt;
+&lt;p&gt;自評分數65分&lt;/p&gt;</content><category term="w9"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W8</title><link href="./41123145-W8.html" rel="alternate"></link><published>2024-04-12T17:00:00+08:00</published><updated>2024-04-26T08:34:22+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-04-12:./41123145-W8.html</id><summary type="html">&lt;p&gt;W8內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W8內容&lt;/p&gt;
 
 &lt;h1&gt;更改Slug名稱&lt;/h1&gt;
-&lt;p&gt;將網誌Slug名稱改成自己學號&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W6</title><link href="./41123145-W6.html" rel="alternate"></link><published>2024-03-29T17:00:00+08:00</published><updated>2024-04-26T06:27:31+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-29:./41123145-W6.html</id><summary type="html">&lt;p&gt;W6內容&lt;/p&gt;
+&lt;p&gt;將網誌Slug名稱改成自己學號&lt;/p&gt;</content><category term="w8"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W6</title><link href="./41123145-W6.html" rel="alternate"></link><published>2024-03-29T17:00:00+08:00</published><updated>2024-04-26T08:34:22+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-29:./41123145-W6.html</id><summary type="html">&lt;p&gt;W6內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W6內容&lt;/p&gt;
 
 &lt;h1&gt;update個人子模組到小組倉儲&lt;/h1&gt;
-&lt;p&gt;update 41123145子模組&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W5</title><link href="./41123145-W5.html" rel="alternate"></link><published>2024-03-22T17:00:00+08:00</published><updated>2024-04-26T06:27:31+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-22:./41123145-W5.html</id><summary type="html">&lt;p&gt;W5內容&lt;/p&gt;
+&lt;p&gt;update 41123145子模組&lt;/p&gt;</content><category term="w6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W5</title><link href="./41123145-W5.html" rel="alternate"></link><published>2024-03-22T17:00:00+08:00</published><updated>2024-04-26T08:34:22+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-22:./41123145-W5.html</id><summary type="html">&lt;p&gt;W5內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W5內容&lt;/p&gt;
 
 &lt;h1&gt;將上字幕影片上傳到小組倉儲&lt;/h1&gt;
 &lt;p&gt;各組自行搜尋前面已經發布的教學影片上字幕
 &lt;a href="https://drive.google.com/file/d/110Z_ZOz3gKbFb_Rvw6_pUSkVQTGwMn87/view?usp=sharing"&gt;wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;說明如何將組員的個人倉儲納入分組倉儲成為子模組&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1QPYG2gUfQ9MOSGNInlEkQyyhuCktkxo_/view?usp=sharing"&gt;影片逐字稿&lt;/a&gt;&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W4</title><link href="./41123145-W4.html" rel="alternate"></link><published>2024-03-15T17:00:00+08:00</published><updated>2024-04-26T06:27:31+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-15:./41123145-W4.html</id><summary type="html">&lt;p&gt;W4內容&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1QPYG2gUfQ9MOSGNInlEkQyyhuCktkxo_/view?usp=sharing"&gt;影片逐字稿&lt;/a&gt;&lt;/p&gt;</content><category term="w5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W4</title><link href="./41123145-W4.html" rel="alternate"></link><published>2024-03-15T17:00:00+08:00</published><updated>2024-04-26T08:34:22+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-15:./41123145-W4.html</id><summary type="html">&lt;p&gt;W4內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W4內容&lt;/p&gt;
 
 
 &lt;h1&gt;各組自行搜尋前面已經發布的教學影片上字幕&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/file/d/110Z_ZOz3gKbFb_Rvw6_pUSkVQTGwMn87/view?usp=sharing"&gt;wcm2024_1a_w3_2_將組員的個人倉儲納為分組倉儲的子模組&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;說明如何將組員的個人倉儲納入分組倉儲成為子模組&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1QPYG2gUfQ9MOSGNInlEkQyyhuCktkxo_/view?usp=sharing"&gt;影片逐字稿&lt;/a&gt;&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W3</title><link href="./41123145-W3.html" rel="alternate"></link><published>2024-03-08T17:00:00+08:00</published><updated>2024-04-26T06:27:31+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-08:./41123145-W3.html</id><summary type="html">&lt;p&gt;W3內容&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1QPYG2gUfQ9MOSGNInlEkQyyhuCktkxo_/view?usp=sharing"&gt;影片逐字稿&lt;/a&gt;&lt;/p&gt;</content><category term="w4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W3</title><link href="./41123145-W3.html" rel="alternate"></link><published>2024-03-08T17:00:00+08:00</published><updated>2024-04-26T08:34:22+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-08:./41123145-W3.html</id><summary type="html">&lt;p&gt;W3內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W3內容&lt;/p&gt;
 
 
@@ -35,14 +56,14 @@
 &lt;p&gt;41123145負責67-77頁
 &lt;a href="https://drive.google.com/file/d/1g4xlxGdSHmJ9eldZt0xBNPWFdBO4lEBL/view?usp=drive_link"&gt;67-77原文&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/file/d/1JfFy66IC6YhOOfL8LNbJRXZ-XxwBFY1_/view?usp=drive_link"&gt;67-77中文翻譯&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://drive.google.com/file/d/19cF5h0O56lDMaxobTLBonw4GVfyynRrs/view?usp=drive_link"&gt;67-77中英合併&lt;/a&gt;&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W2</title><link href="./41123145-W2.html" rel="alternate"></link><published>2024-03-01T17:00:00+08:00</published><updated>2024-04-26T06:27:31+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-01:./41123145-W2.html</id><summary type="html">&lt;p&gt;W2內容&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/19cF5h0O56lDMaxobTLBonw4GVfyynRrs/view?usp=drive_link"&gt;67-77中英合併&lt;/a&gt;&lt;/p&gt;</content><category term="w3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W2</title><link href="./41123145-W2.html" rel="alternate"></link><published>2024-03-01T17:00:00+08:00</published><updated>2024-04-26T08:34:22+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-03-01:./41123145-W2.html</id><summary type="html">&lt;p&gt;W2內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W2內容&lt;/p&gt;
 
 
 &lt;h1&gt;進行分組&lt;/h1&gt;
 &lt;p&gt;老師在teams給的網址加入小組&lt;a href="https://classroom.github.com/a/4oAmwPFW"&gt;加入小組連結&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;加入第二組&lt;/h1&gt;
-&lt;p&gt;第二組&lt;a href="https://github.com/mdecd2024/2a-midag2"&gt;2a-midag2&lt;/a&gt;&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W1</title><link href="./41123145-W1.html" rel="alternate"></link><published>2024-02-23T17:00:00+08:00</published><updated>2024-04-26T06:27:31+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-02-23:./41123145-W1.html</id><summary type="html">&lt;p&gt;W1內容&lt;/p&gt;
+&lt;p&gt;第二組&lt;a href="https://github.com/mdecd2024/2a-midag2"&gt;2a-midag2&lt;/a&gt;&lt;/p&gt;</content><category term="w2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W1</title><link href="./41123145-W1.html" rel="alternate"></link><published>2024-02-23T17:00:00+08:00</published><updated>2024-04-26T08:34:22+08:00</updated><author><name>41123145</name></author><id>tag:None,2024-02-23:./41123145-W1.html</id><summary type="html">&lt;p&gt;W1內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;W1內容&lt;/p&gt;
 
 
@@ -57,7 +78,7 @@
 &lt;h1&gt;建立個人簡報&lt;/h1&gt;
 &lt;p&gt;簡報連結&lt;a href="https://41123145.github.io/cd2024/reveal/"&gt;41123145簡報&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
-&lt;p&gt;新增倉儲，簡報，網頁，網誌，建立Github與Replit和網誌推送，下載可攜程式環境以及其他檔案。&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程</title><link href="./41123145.html" rel="alternate"></link><published>2024-02-18T17:00:00+08:00</published><updated>2024-04-26T06:27:31+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./41123145.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;新增倉儲，簡報，網頁，網誌，建立Github與Replit和網誌推送，下載可攜程式環境以及其他檔案。&lt;/p&gt;</content><category term="w1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程</title><link href="./41123145.html" rel="alternate"></link><published>2024-02-18T17:00:00+08:00</published><updated>2024-04-26T08:34:22+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./41123145.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
